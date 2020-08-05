@@ -1,6 +1,7 @@
 ---
-title: "Ananke: a Hugo Theme"
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: "The last theme you'll ever need. Maybe."
+title: BitJet
+featured_image: https://cdn.shopify.com/shopifycloud/hatchful-web/assets/d80321286525089fe6b5a5d4759d0efd.svg
+description: A place to connect.
+
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+#### We created BitJet so we could communicate, create and innovate, all at the same time. Chat and create in one of our many forums. You can even create your own forums and get your friends on it. Do it your way.
